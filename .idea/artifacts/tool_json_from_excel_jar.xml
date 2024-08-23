@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tool_json_from_excel:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tool_json_from_excel_jar</output-path>
+    <root id="archive" name="tool_json_from_excel.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
